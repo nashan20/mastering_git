@@ -1,6 +1,5 @@
-## Heyoo everyone, welcome to by guide!
+## Hello, Git!
 
 
-- Yo, Nashan here!
 - I'm adding this from 'feature-branch'
 - 
